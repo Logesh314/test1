@@ -1,6 +1,8 @@
+#this function does addition of two numbers
 def sum(x,y):
 	return a + b
 
+#this function does subraction of two numbers
 def sub(x,y):
 	return a - b
 
